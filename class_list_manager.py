@@ -1,5 +1,4 @@
-
-# Class List Manager - Group 3
+# Class List Manager - Group 8
 # MIS 211 Bonus Assignment (GitHub Teamwork)
 
 names = ["Sara", "Noura", "Lama", "Reem", "Amal", "Lama"]
