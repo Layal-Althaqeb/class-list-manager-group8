@@ -20,7 +20,7 @@ def main():
 
     # Each student calls her function here, for example:
     # print("Number of names:", count_names(names))
-print("Number of names:", count_names(names))
+    print("Number of names:", count_names(names))
 
 
 
