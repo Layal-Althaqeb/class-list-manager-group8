@@ -5,6 +5,10 @@ names = ["Sara", "Noura", "Lama", "Reem", "Amal", "Lama"]
 
 
 # ===== Each student adds her function BELOW this line =====
+#written by: Layal (Task 1)
+def count_names(names):
+    return len(names)
+
 
 
 # ===== Each student adds her function ABOVE this line =====
@@ -16,6 +20,9 @@ def main():
 
     # Each student calls her function here, for example:
     # print("Number of names:", count_names(names))
+print("Number of names:", count_names(names))
+
+
 
 
 main()
