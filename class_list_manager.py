@@ -30,7 +30,7 @@ def main():
     # print("Number of names:", count_names(names))
     print("Number of names:", count_names(names))
     print("Search result:", search_name(names, "Lama"))
-
+    print("Sorted names:", sort_names(names))
 
 
 main()
