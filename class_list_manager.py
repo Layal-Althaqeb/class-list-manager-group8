@@ -15,7 +15,10 @@ def search_name(names, name):
         if n == name:
             return True
     return False
-
+# Written by: Shouq (Task 3)
+def sort_names(names):
+    sorted_list = sorted(names)
+    return sorted_list
 # ===== Each student adds her function ABOVE this line =====
 
 
